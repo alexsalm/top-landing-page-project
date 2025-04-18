@@ -7,3 +7,14 @@ body {
     font-style: normal;
     font-variation-settings: "wdth" 100;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.footer {
+    display: flex;
+    margin-top: auto;
+}
