@@ -19,6 +19,23 @@ body {
     min-height: 100vh;
 }
 
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8
+}
+
 .hero-section {
     background-color: #1F2937;
     color: #F9FAF8;
