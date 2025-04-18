@@ -22,9 +22,14 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: #1F2937;
     color: #F9FAF8;
+}
+
+.right-links {
+    display: flex;
+    gap: 16px;
 }
 
 ul {
