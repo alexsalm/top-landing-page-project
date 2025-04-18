@@ -14,7 +14,14 @@ body {
     min-height: 100vh;
 }
 
+.hero-section {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
 .footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
     display: flex;
     margin-top: auto;
 }
