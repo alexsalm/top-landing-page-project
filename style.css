@@ -41,6 +41,12 @@ a {
     color: #F9FAF8
 }
 
+.header-sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 16px;
+}
+
 .hero-section {
     background-color: #1F2937;
     color: #F9FAF8;
