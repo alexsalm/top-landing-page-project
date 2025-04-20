@@ -41,6 +41,16 @@ a {
     color: #F9FAF8
 }
 
+#main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+#secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header-sign-up {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -48,6 +58,7 @@ a {
 }
 
 .hero-section {
+    display: flex;
     background-color: #1F2937;
     color: #F9FAF8;
 }
