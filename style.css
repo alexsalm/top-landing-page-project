@@ -59,8 +59,19 @@ a {
 
 .hero-section {
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     background-color: #1F2937;
     color: #F9FAF8;
+}
+
+.left-elements {
+    padding: 48px;
+    width: 400px;
+}
+
+.pug-image {
+    padding: 48px;
 }
 
 .quote-section {
