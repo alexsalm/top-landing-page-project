@@ -81,6 +81,15 @@ a {
     padding: 48px;
 }
 
+#info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+
 .quote-section {
     background-color: #E5E7EB;
 }
