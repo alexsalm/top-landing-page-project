@@ -56,7 +56,7 @@ a {
     color: #E5E7EB;
 }
 
-.header-sign-up {
+.sign-up {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 8px 24px;
@@ -111,6 +111,8 @@ a {
     background-color: #1F2937;
     color: #F9FAF8;
     margin-top: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .subtext {
@@ -128,4 +130,11 @@ a {
 .quote-writer {
     margin-top: 16px;
     align-self: last baseline;
+}
+
+.sign-up-section {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
 }
