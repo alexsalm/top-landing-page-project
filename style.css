@@ -81,7 +81,13 @@ a {
     padding: 48px;
 }
 
-#info-header {
+.puglife {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.info-header {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
