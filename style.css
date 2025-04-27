@@ -127,4 +127,5 @@ a {
 
 .quote-writer {
     margin-top: 16px;
+    align-self: last baseline;
 }
