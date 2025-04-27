@@ -85,6 +85,8 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    gap: 48px;
+    padding: 48px;
 }
 
 .info-header {
@@ -107,5 +109,6 @@ a {
 }
 
 .subtext {
-    color: red;
+    color: #1F2937;
+    width: 200px;
 }
