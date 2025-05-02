@@ -22,13 +22,16 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 48px; /* Add padding for spacing from container edges */ 
     background-color: #1F2937;
     color: #F9FAF8;
 }
 
 .header-logo {
     font-size: 24px;
+    padding: 0 48px;
 }
 
 .right-links {
@@ -67,7 +70,9 @@ a {
 .hero-section {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 48px; /* Ensure consistent padding with header */ 
     background-color: #1F2937;
     color: #F9FAF8;
 }
