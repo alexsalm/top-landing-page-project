@@ -55,6 +55,7 @@ a {
 }
 
 #secondary-text {
+    margin-top: 12px;
     font-size: 18px;
     color: #E5E7EB;
 }
