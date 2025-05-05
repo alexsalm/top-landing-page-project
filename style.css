@@ -32,6 +32,10 @@ body {
 .header-logo {
     font-size: 24px;
     padding: 0 48px;
+    display: flex;
+    flex: row;
+    gap: 12px;
+    align-items: center;
 }
 
 .right-links {
